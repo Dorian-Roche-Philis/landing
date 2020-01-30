@@ -1,0 +1,22 @@
+.btn-yellow{
+  display: inline-block;
+animation:bounce 5s infinite linear;
+animation-delay:0.07s;
+position:relative;
+background: yellow;
+border-radius: 50px;
+padding: 16px 36px;
+font-size: 24px;
+color:black;
+box-shadow: 2px 2px 2px 1px rgba(0,0,0,0.2);
+}
+@keyframes bounce {
+0%{top:0em}
+40%{top:0em}
+43%{top:-0.9em}
+46%{top:0em}
+48%{top:-0.4em}
+50%{top:0em}
+100%{top:0em;}
+}
+}

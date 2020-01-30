@@ -1,0 +1,20 @@
+.banner{
+  background:url(https://media.lesechos.com/api/v1/images/view/5d14720b8fe56f5f1265a937/1280x720/2121772-la-foret-un-placement-securisant-dans-le-temps-web-tete-030682267356.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+.container{
+  width: 800px;
+  margin: 0px auto;
+  text-align: center;
+
+}
+.banner h1 {
+  color:white;
+  font-size: 50px;
+}
+.banner p {
+  color: rgb(250,250,250);
+  font-size: 22px;
+}
